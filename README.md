@@ -1,1 +1,3 @@
-# ICS-file
+## Spring Calendar
+
+Release calendar for Spring projects
